@@ -1,0 +1,5 @@
+.photos-container {
+    background-color: #05BFDB;
+    display: flex;
+    flex-wrap: wrap;
+}
